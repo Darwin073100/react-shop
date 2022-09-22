@@ -13,7 +13,7 @@
     "webpack"
   ],
   "author": "Edwin Garcia Quiterio <edwinegq@outlook.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@babel/core": "^7.19.1",
     "@babel/preset-env": "^7.19.1",
