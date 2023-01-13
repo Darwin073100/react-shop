@@ -1,10 +1,13 @@
 import React from 'react';
+import "@styles/NotFound.scss";
+
+import notFound from "@logos/not-found.svg"
 
 const NotFound = () =>{
     return(
     <div className="container">
         <div className="image">
-            <img src="icons/not-found.svg" alt="Not Found"/>
+            <img src={notFound} alt="Not Found"/>
         </div>
         <div className="text">
             <h2>¡No encontrado!</h2>
