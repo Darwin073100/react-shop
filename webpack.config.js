@@ -67,6 +67,6 @@ module.exports ={
         historyApiFallback: true,
         // static: path.join(__dirname, 'dist'),
         // compress: true,
-        // port: 3005,
+        port: 3000,
     }
 }
